@@ -1,2 +1,3 @@
 # testGitRepo
-this is atest
+this is atest - showing edits
+
